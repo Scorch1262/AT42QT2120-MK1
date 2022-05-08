@@ -1,5 +1,4 @@
 # Testboard-AT42QT2120-MK1
-Testboard mit UART Schnittstelle für AT42QT2120 (Touchsensor)
 
  Funktionen (Software V1.1) [F]:
 - MCC UART Funktion
